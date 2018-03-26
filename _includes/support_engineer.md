@@ -1,0 +1,1 @@
+Als support engineer hielp ik klanten voort wanneer ze technische problemen hadden met onze software.

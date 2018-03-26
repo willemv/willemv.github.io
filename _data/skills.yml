@@ -1,0 +1,93 @@
+- category:
+  name: Programmeer talen
+  skills:
+  - skill:
+    name: Desktop Java
+    level: 100%
+  - skill:
+    name: Server-side Java
+    level: 75%
+  - skill:
+    name: Javascript
+    level: 75%
+  - skill:
+    name: Android development
+    level: 75%
+  - skill:
+    name: XSLT
+    level: 50%
+  - skill:
+    name: Ruby
+    level: 50%
+  - skill:
+    name: Typescript
+    level: 33%
+- category:
+  name: Technologieën
+  skills:
+  - skill:
+    name: OpenGL
+    level: 50%
+  - skill:
+    name: OSGi
+    level: 33%
+  - skill:
+    name: Jenkins Continuous Integration Server
+    level: 100%
+  - skill:
+    name: Ant + ivy
+    level: 100%
+  - skill:
+    name: Apache buildr
+    level: 75%
+  - skill:
+    name: Maven
+    level: 75%
+  - skill:
+    name: Gradle
+    level: 50%
+  - skill:
+    name: cmake
+    level: 33%
+- category:
+  name: Source control
+  skills:
+  - skill:
+    name: Mercurial
+    level: 100%
+  - skill:
+    name: Git
+    level: 75%
+  - skill:
+    name: Subversion
+    level: 75%
+  - skill:
+    name: CVS
+    level: 90%
+- category:
+  name: Domein kennis
+  skills:
+  - skill:
+    name: Geodesie
+    level: 90%
+  - skill:
+    name: Radar systemen
+    level: 50%
+- category:
+  name: Collaboration tools
+  skills:
+  - skill:
+    name: JIRA
+    level: 100%
+  - skill:
+    name: Confluence
+    level: 100%
+  - skill:
+    name: Office365
+    level: 80%
+- category:
+  name: Management technieken
+  skills:
+  - skill:
+    name: Scrum
+    level: 80%

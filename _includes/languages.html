@@ -1,0 +1,16 @@
+{% if site.data.languages %}
+<section class="section languages-section">
+  <h2 class="section-title"><i class="fa fa-comment"></i>Talen</h2>
+
+    <table class="table">
+      <thead><th>Taal</th><th>Begrip</th><th>Schrijven</th><th>Spreken</th></thead>
+      <tbody>
+        
+      {% for language in site.data.languages %}
+        <tr><th>{{ language.idiom }}</th><td>{{ language.understanding }}</td><td>{{ language.writing }}</td><td>{{ language.speaking }}</td></tr>
+      {% endfor %}
+      </tbody>
+    </table>
+
+  </section><!--//languages-->
+{% endif %}
