@@ -1,15 +1,16 @@
 {% if site.data.skills %}
-<section class="skills-section section">
+<section class="skills-section section" style="break-before: page;">
 
   <h2 class="section-title"><i class="fa fa-rocket"></i>Vaardigheden</h2>
 
   <div class="skillset">
 
     {% for category in site.data.skills %}
+    <section>
     <h3 class="subsection-title">{{ category.name }}</h3>
     {% for skill in category.skills %}
     <div class="item">
-     
+
       <h4 class="level-title">{{ skill.name }}</h4>
 
       <div class="level-bar">
@@ -19,6 +20,7 @@
 
     </div><!--//item-->
     {% endfor %}
+    </section>
     {% endfor %}
 
   </div>

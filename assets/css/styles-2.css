@@ -1,4 +1,4 @@
-/*   
+/*
  * Template Name: Orbit - Responsive Resume/CV Template for Developers
  * Version: 1.0
  * Author: Xiaoying Riley
@@ -30,6 +30,7 @@ a {
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
 }
 a:hover {
   text-decoration: underline;
@@ -260,23 +261,30 @@ p {
 .main-wrapper .publications-section .item {
   margin-bottom: 15px;
 }
-.skillset .item {
+h1, h2, h3, h4 {
+  page-break-after: avoid;
+  break-after: avoid-page;
+}
+.skills-section section {
+  break-inside: avoid-page;
+}
+.skills-section .item {
   margin-bottom: 15px;
   margin-top: 15px;
   overflow: hidden;
 }
-.skillset .level-title {
+.skills-section .level-title {
   font-size: 14px;
   margin-top: 0;
   margin-bottom: 12px;
 }
-.skillset .level-bar {
+.skills-section .level-bar {
   height: 12px;
   background: #f5f5f5;
 }
-.skillset .level-bar-inner {
+.skills-section .level-bar-inner {
   height: 12px;
-  background: #7ec6bb;
+  background: #7bc2d3;
 }
 .footer {
   padding-top: 30px;
