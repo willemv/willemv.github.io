@@ -1,17 +1,17 @@
 - experience:
-  role: Team Lead
-  time: 2019 - 2022
-  company:
-    name: Datadobi
-    link: https://datadobi.com
-  details_include: datadobi_teamlead.md
-- experience:
   role: Senior Software Engineer
   time: 2018 - Nu
   company:
     name: Datadobi
     link: https://datadobi.com
   details_include: datadobi_senior_software_engineer.md
+- experience:
+  role: Team Lead
+  time: 2019 - 2022
+  company:
+    name: Datadobi
+    link: https://datadobi.com
+  details_include: datadobi_teamlead.md
 - experience:
   role: Support engineer
   time: 2019 - 2022
