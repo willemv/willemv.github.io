@@ -1,35 +1,56 @@
 - experience:
-  role: Software Developer
-  time: 2005 - Nu
+  role: Team Lead
+  time: 2019 - 2022
   company:
-    name: Luciad N.V.
-    link: http://luciad.com
-  details_include: software_developer.md
+    name: Datadobi
+    link: https://datadobi.com
+  details_include: datadobi_teamlead.md
+- experience:
+  role: Senior Software Engineer
+  time: 2018 - Nu
+  company:
+    name: Datadobi
+    link: https://datadobi.com
+  details_include: datadobi_senior_software_engineer.md
+- experience:
+  role: Support engineer
+  time: 2019 - 2022
+  company:
+    name: Datadobi
+    link: https://datadobi.com
+  details_include: datadobi_support_engineer.md
+- experience: 
+  role: Software Developer
+  time: 2005 - 2018
+  company:
+    name: Luciad N.V. (Now Hexagon Geospatial)
+    link: https://hexagon.com/products/luciadlightspeed
+  details_include: luciad_software_developer.md
 - experience:
   role: Project Leader
-  time: 2015 - Nu
+  time: 2015 - 2018
   company:
-    name: Luciad N.V.
-    link: http://luciad.com
-  details_include: project_leader.md
+    name: Luciad N.V. (Now Hexagon Geospatial)
+    link: https://hexagon.com/products/luciadlightspeed
+  details_include: luciad_project_leader.md
 - experience:
   role: Release Engineer
   time: 2008 - 2015
   company:
-    name: Luciad N.V.
-    link: http://luciad.com
-  details_include: release_engineer.md
+    name: Luciad N.V. (Now Hexagon Geospatial)
+    link: https://hexagon.com/products/luciadlightspeed
+  details_include: luciad_release_engineer.md
 - experience:
   role: Quality Controller
   time: 2008 - 2018
   company:
-    name: Luciad N.V.
-    link: http://luciad.com
-  details_include: quality_controller.md
+    name: Luciad N.V. (Now Hexagon Geospatial)
+    link: https://hexagon.com/products/luciadlightspeed
+  details_include: luciad_quality_controller.md
 - experience:
   role: Technical Customer Support Engineer
-  time: 2007 - Nu
+  time: 2007 - 2018
   company:
-    name: Luciad N.V.
-    link: http://luciad.com
-  details_include: support_engineer.md
+    name: Luciad N.V. (Now Hexagon Geospatial)
+    link: https://hexagon.com/products/luciadlightspeed
+  details_include: luciad_support_engineer.md

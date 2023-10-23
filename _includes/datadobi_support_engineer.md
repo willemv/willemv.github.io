@@ -1,0 +1,1 @@
+Als support engineer hielp ik klanten voort wanneer ze technische problemen hadden met onze software of problem hadden bij hun migratie projecten. Ik draaide hierbij ook mee in de telefonische on-call rotatie.

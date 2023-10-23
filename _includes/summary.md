@@ -24,4 +24,4 @@ Mijn manier van werken in een paar kernwoorden:
 * **geëngageerd**: een betere wereld begint bij jezelf. Ik probeer keuzes te maken die ons als maatschappij of team
 versterken en niet enkel voor mezelf voordelig lijken.
 
-Buiten mijn werk ben ik ook een toegewijde echtgenoot, vader van 4 kinderen, en speel ik [badminton](https://www.toernooi.nl/player/638D0B55-C39B-43AB-8A9D-D50D62017FBE/50116897/home?ProfileCode=BBAB8407-894D-49C9-9CD9-899548B978F4) in de provinciale competitie.
+Buiten mijn werk ben ik ook een toegewijde echtgenoot, vader van 4 kinderen, speel ik badminton en ben ik pottenbakker.
